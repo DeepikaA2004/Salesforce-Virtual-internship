@@ -145,34 +145,34 @@ Unlocking Efficiency with Asynchronous Apex
 Day 10 unveiled the immense potential of Asynchronous Apex for building efficient and scalable solutions within Salesforce. 
 
 
-DAY 1: OUTCOME 
+## DAY 1: OUTCOME 
 ![image](https://github.com/DeepikaA2004/Salesforce-Virtual-internship/assets/110418508/1edecf62-ee07-4d67-a619-cdf327cbc473)
 
-DAY 2: OUTCOME
+## DAY 2: OUTCOME
 ![image](https://github.com/DeepikaA2004/Salesforce-Virtual-internship/assets/110418508/6458e6be-af63-474b-8f0c-bd5578b4c75e)
 
-DAY 3: OUTCOME
+## DAY 3: OUTCOME
 ![image](https://github.com/DeepikaA2004/Salesforce-Virtual-internship/assets/110418508/13ff95c3-282a-48ba-a20d-b31d9f0a0ae0)
 
-DAY 4: OUTCOME
+## DAY 4: OUTCOME
 ![image](https://github.com/DeepikaA2004/Salesforce-Virtual-internship/assets/110418508/13c8c617-85ee-4a45-b92f-9e36ad2a70c9)
 
-DAY 5: OUTCOME
+## DAY 5: OUTCOME
 ![image](https://github.com/DeepikaA2004/Salesforce-Virtual-internship/assets/110418508/560cd38e-2c5d-4cde-96f8-ed9434ba08f5)
 
-DAY 6: OUTCOME
+## DAY 6: OUTCOME
 ![image](https://github.com/DeepikaA2004/Salesforce-Virtual-internship/assets/110418508/abfa0279-9c0b-41e1-9f27-d29078edf670)
 
-DAY 7: OUTCOME
+## DAY 7: OUTCOME
 ![image](https://github.com/DeepikaA2004/Salesforce-Virtual-internship/assets/110418508/85253ae5-deee-46ef-9e9c-95298ae00a57)
 
-DAY 8: OUTCOME
+## DAY 8: OUTCOME
 ![image](https://github.com/DeepikaA2004/Salesforce-Virtual-internship/assets/110418508/cc9de7c6-7fc6-484c-8c17-9d4eeb0c73ad)
 
-DAY 9: OUTCOME
+## DAY 9: OUTCOME
 ![image](https://github.com/DeepikaA2004/Salesforce-Virtual-internship/assets/110418508/acefeb54-06d0-4536-8ffc-cd5b201695a8)
 
-DAY 10:OUTCOME
+## DAY 10:OUTCOME
 ![image](https://github.com/DeepikaA2004/Salesforce-Virtual-internship/assets/110418508/5f9e9ba5-8f67-444e-ab2b-aa675a73de85)
 
 
